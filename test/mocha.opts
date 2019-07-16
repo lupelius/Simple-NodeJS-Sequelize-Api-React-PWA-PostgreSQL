@@ -1,0 +1,4 @@
+--name '*.test.js'
+--recursive
+--exit
+--timeout 10000
